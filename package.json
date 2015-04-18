@@ -1,0 +1,16 @@
+{
+  "name": "HapiLearning",
+  "version": "1.0.0",
+  "description": "'HAPI' Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkatesh",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^3.0.1",
+    "hapi": "^8.4.0",
+    "hapi-auth-cookie": "^2.0.0"
+  }
+}
